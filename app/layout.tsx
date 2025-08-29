@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "TCS Courier Tracking App - Track Your Parcels Anytime, Anywhere",
+  title: "TCS Tracking - TCS Express App - Track Your Parcels Anytime, Anywhere",
   description:
     "Stay updated on your TCS parcels with our fast, reliable tracking app. Track documents, packages, and business shipments directly on your phone.",
   keywords: "TCS courier, parcel tracking, package tracking, TCS Express, courier service, delivery tracking",
@@ -16,24 +16,24 @@ export const metadata: Metadata = {
   publisher: "Youth Empowerment Center",
   robots: "index, follow",
   openGraph: {
-    title: "TCS Courier Tracking App - Track Your Parcels Anytime, Anywhere",
+    title: "TCS Tracking - TCS Express App - Track Your Parcels Anytime, Anywhere",
     description:
       "Stay updated on your TCS parcels with our fast, reliable tracking app. Track documents, packages, and business shipments directly on your phone.",
     url: "https://tcscourier.vercel.app",
-    siteName: "TCS Courier Tracking",
+    siteName: "TCS Tracking - TCS Express",
     type: "website",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "TCS Courier Tracking App",
+        alt: "TCS Tracking - TCS Express App",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "TCS Courier Tracking App - Track Your Parcels Anytime, Anywhere",
+    title: "TCS Tracking - TCS Express App - Track Your Parcels Anytime, Anywhere",
     description: "Stay updated on your TCS parcels with our fast, reliable tracking app.",
     images: ["/og-image.png"],
   },
