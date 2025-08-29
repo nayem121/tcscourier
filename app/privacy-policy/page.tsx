@@ -4,8 +4,8 @@ import { ArrowLeft, Shield } from "lucide-react"
 import Link from "next/link"
 
 export const metadata = {
-  title: "Privacy Policy - TCS Courier Tracking App",
-  description: "Privacy policy for the TCS Courier Tracking mobile application developed by Youth Empowerment Center.",
+  title: "Privacy Policy - TCS Tracking - TCS Express App",
+  description: "Privacy policy for the TCS Tracking - TCS Express mobile application developed by Youth Empowerment Center.",
 }
 
 export default function PrivacyPolicyPage() {
@@ -34,12 +34,12 @@ export default function PrivacyPolicyPage() {
         <Card className="max-w-4xl mx-auto">
           <CardHeader className="text-center">
             <CardTitle className="text-3xl font-bold text-gray-900 dark:text-white">Privacy Policy</CardTitle>
-            <p className="text-gray-600 dark:text-gray-300 mt-2">TCS Courier Tracking App</p>
-            <p className="text-sm text-gray-500 dark:text-gray-400">Effective Date: July 31, 2025</p>
+            <p className="text-gray-600 dark:text-gray-300 mt-2">TCS Tracking - TCS Express App</p>
+            <p className="text-sm text-gray-500 dark:text-gray-400">Effective Date: August 29, 2025</p>
           </CardHeader>
           <CardContent className="prose prose-gray dark:prose-invert max-w-none">
             <p className="text-gray-700 dark:text-gray-300 mb-6">
-              This privacy policy applies to the TCS Courier Tracking app (hereby referred to as "Application") for
+              This privacy policy applies to the TCS Tracking - TCS Express app (hereby referred to as "Application") for
               mobile devices that was created by Youth Empowerment Center (hereby referred to as "Service Provider") as
               a Free service. This service is intended for use "AS IS".
             </p>
