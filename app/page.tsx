@@ -14,7 +14,7 @@ export default function HomePage() {
             <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
               <Smartphone className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold text-gray-900 dark:text-white">TCS Courier Tracking</span>
+            <span className="text-xl font-bold text-gray-900 dark:text-white">TCS Tracking - TCS Express App</span>
           </div>
           <div className="hidden md:flex items-center space-x-6">
             <Link
@@ -164,7 +164,7 @@ export default function HomePage() {
           <CardContent className="p-12 text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Start Tracking?</h2>
             <p className="text-xl mb-8 opacity-90">
-              Download the TCS Courier Tracking app now and never lose track of your parcels again.
+              Download the TCS Tracking - TCS Express app now and never lose track of your parcels again.
             </p>
             <Button size="lg" variant="secondary" className="bg-white text-blue-600 hover:bg-gray-100" asChild>
               <Link
@@ -189,7 +189,7 @@ export default function HomePage() {
                 <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
                   <Smartphone className="w-5 h-5 text-white" />
                 </div>
-                <span className="text-xl font-bold">TCS Courier Tracking</span>
+                <span className="text-xl font-bold">TCS Tracking - TCS Express</span>
               </div>
               <p className="text-gray-400">
                 Track your TCS parcels anytime, anywhere with our reliable mobile application.
@@ -239,7 +239,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2025 TCS Courier Tracking App. All rights reserved.</p>
+            <p>&copy; 2025 TCS Tracking - TCS Express App. All rights reserved.</p>
           </div>
         </div>
       </footer>
