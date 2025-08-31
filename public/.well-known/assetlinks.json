@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nuc.tcs",
+      "sha256_cert_fingerprints": [
+        "7F:B7:F6:56:7D:19:1A:94:6C:7F:57:F5:9A:E8:3B:E2:B4:E8:57:93:C9:8E:C4:93:BA:22:9B:2E:4B:A6:FF:F5"
+      ]
+    }
+  }
+]
